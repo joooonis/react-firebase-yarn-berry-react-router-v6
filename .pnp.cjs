@@ -31,7 +31,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:b7c61da792baae2933dd943e7a8775088db3f1dce4fdc778c09127bd4edcceea7cd12660b61094b8b14f4caf47693472ebeedfc24c250ba67b29bbf99f9c61a4#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:b7c61da792baae2933dd943e7a8775088db3f1dce4fdc778c09127bd4edcceea7cd12660b61094b8b14f4caf47693472ebeedfc24c250ba67b29bbf99f9c61a4#npm:13.5.0"],\
-            ["eslint-config-react", "npm:1.1.7"],\
             ["firebase", "npm:9.15.0"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:b7c61da792baae2933dd943e7a8775088db3f1dce4fdc778c09127bd4edcceea7cd12660b61094b8b14f4caf47693472ebeedfc24c250ba67b29bbf99f9c61a4#npm:18.2.0"],\
@@ -9182,15 +9181,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["eslint-config-react", [\
-        ["npm:1.1.7", {\
-          "packageLocation": "./.yarn/cache/eslint-config-react-npm-1.1.7-6e3860b2e1-15d3d7f78e.zip/node_modules/eslint-config-react/",\
-          "packageDependencies": [\
-            ["eslint-config-react", "npm:1.1.7"]\
-          ],\
-          "linkType": "HARD"\
-        }]\
-      ]],\
       ["eslint-config-react-app", [\
         ["npm:7.0.1", {\
           "packageLocation": "./.yarn/cache/eslint-config-react-app-npm-7.0.1-78bab43841-a67e082180.zip/node_modules/eslint-config-react-app/",\
@@ -15797,7 +15787,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:b7c61da792baae2933dd943e7a8775088db3f1dce4fdc778c09127bd4edcceea7cd12660b61094b8b14f4caf47693472ebeedfc24c250ba67b29bbf99f9c61a4#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:b7c61da792baae2933dd943e7a8775088db3f1dce4fdc778c09127bd4edcceea7cd12660b61094b8b14f4caf47693472ebeedfc24c250ba67b29bbf99f9c61a4#npm:13.5.0"],\
-            ["eslint-config-react", "npm:1.1.7"],\
             ["firebase", "npm:9.15.0"],\
             ["react", "npm:18.2.0"],\
             ["react-dom", "virtual:b7c61da792baae2933dd943e7a8775088db3f1dce4fdc778c09127bd4edcceea7cd12660b61094b8b14f4caf47693472ebeedfc24c250ba67b29bbf99f9c61a4#npm:18.2.0"],\
