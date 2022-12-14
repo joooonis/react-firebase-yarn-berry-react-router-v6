@@ -1,5 +1,5 @@
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
-import firebase from '../firebase';
+import firebase from '../firebase/firebase';
 import Home from '../pages/Home';
 import About from '../pages/About';
 
